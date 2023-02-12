@@ -5,5 +5,4 @@ format: html
 ---
 
 1.  [Descriptive analysis](./analyses/descriptive_analysis.html)
-2.  ACF sites map
-3.  [Issues in the data set](https://docs.google.com/document/d/1hm2-TluNptFI9JU2xOPdfyydH73kID42BwE42JAYUeE/edit?usp=sharing)
+2.  [Issues in the data set](https://docs.google.com/document/d/1hm2-TluNptFI9JU2xOPdfyydH73kID42BwE42JAYUeE/edit?usp=sharing)
