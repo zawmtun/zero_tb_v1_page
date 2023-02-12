@@ -4,5 +4,5 @@ author: "ZMT"
 format: html
 ---
 
-1.  [Descriptive analysis](./contents/descriptive_analysis.html)
+1.  [Descriptive analysis](./analyses/descriptive_analysis.html)
 2.  ACF sites map
