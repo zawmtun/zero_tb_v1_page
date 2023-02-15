@@ -6,3 +6,4 @@ format: html
 
 1.  [Descriptive analysis](./analyses/descriptive_analysis.html)
 2.  [Issues in the data set](https://docs.google.com/document/d/1hm2-TluNptFI9JU2xOPdfyydH73kID42BwE42JAYUeE/edit?usp=sharing)
+3. [AFTB cases and screening by UC](./analyses/karachi_maps.html)
