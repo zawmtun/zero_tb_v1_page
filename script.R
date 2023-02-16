@@ -1,6 +1,7 @@
 file_names <- c(
   "descriptive_analysis.html",
-  "karachi_maps.html"
+  "karachi_maps.html",
+  "acf_community_maps.html"
 )
 
 sync_analyses <- function(file) {
